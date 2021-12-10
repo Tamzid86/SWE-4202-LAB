@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd61522d-c2af-4faa-85d1-03c9af9d36bb": {
+      "ProjectGuid": "bd61522d-c2af-4faa-85d1-03c9af9d36bb",
+      "DisplayName": "Library Management System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
