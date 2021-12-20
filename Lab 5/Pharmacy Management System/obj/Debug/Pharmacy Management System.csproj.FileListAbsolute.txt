@@ -1,0 +1,11 @@
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+G:\SWE 4202 LAB\Lab 5\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
