@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "303031e1-7303-40cd-9bd9-eca285adde1b": {
+      "ProjectGuid": "303031e1-7303-40cd-9bd9-eca285adde1b",
+      "DisplayName": "Employee Management system",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

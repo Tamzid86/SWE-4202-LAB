@@ -1,0 +1,11 @@
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\bin\Debug\Employee Management system.exe.config
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\bin\Debug\Employee Management system.exe
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\bin\Debug\Employee Management system.pdb
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee Management system.csproj.AssemblyReference.cache
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee Management system.csproj.SuggestedBindingRedirects.cache
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee_Management_system.Form1.resources
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee_Management_system.Properties.Resources.resources
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee Management system.csproj.GenerateResource.cache
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee Management system.csproj.CoreCompileInputs.cache
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee Management system.exe
+C:\Users\My System\Desktop\ooc lab\Employee Management system\Employee Management system\obj\Debug\Employee Management system.pdb
